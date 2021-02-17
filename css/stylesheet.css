@@ -1,6 +1,35 @@
 body{
     background-color: #E4DDD7;
 }
-h1 {
-    color: #8DA290;
+h1{
+    color:lightseagreen
+}
+.font{
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    background-color: lightblue;
+    text-align: center;
+    padding:25px
+
+}
+nav ul{
+
+    margin: 0;
+    padding:0;
+    list-style: none;
+    
+}
+nav li{
+
+    display: inline-block;
+   
+}
+nav a{
+
+    margin: 50px;
+    color: rgb(2, 53, 6);
+    text-decoration: none;
+    text-transform: uppercase;
+    
 }
